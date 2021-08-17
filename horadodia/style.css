@@ -1,0 +1,26 @@
+body {
+    background: rgb(181, 100, 248);
+    font: bold 20pt Courier New;
+}
+
+header {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+
+section { 
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 5px rgb(0, 0, 0);
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+}
